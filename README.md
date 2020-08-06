@@ -23,3 +23,8 @@ git pull
 =======
 git pull origin conflicts
 >>>>>>> 125623a2747ed4b400a9b2535821b7e4a8561c91
+
+
+git tag -l "v1"
+
+git tag -l "v2"
