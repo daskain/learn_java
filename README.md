@@ -9,4 +9,8 @@ create new branch - second_branch
 
 create new branch - third_branch
 
+<<<<<<< HEAD
 merge with conflict
+=======
+git merge conflict in another branches
+>>>>>>> third_branch
