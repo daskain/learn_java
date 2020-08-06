@@ -27,6 +27,9 @@ git pull origin conflicts
 
 stash
 
+<<<<<<< HEAD
 stash 2
 
 stash 34
+=======
+>>>>>>> 4490b7f... stash
