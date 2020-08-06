@@ -9,4 +9,4 @@ create new branch - second_branch
 
 create new branch - third_branch
 
-merge
+merge with conflict
