@@ -18,3 +18,4 @@ git merge conflict in another branches
 
 git merge conflict in another branches
 
+git pull origin conflicts
