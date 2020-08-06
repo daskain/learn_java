@@ -28,5 +28,3 @@ git pull origin conflicts
 git tag -l "v1"
 
 git tag -l "v2"
-
-git tag -l "v3"
