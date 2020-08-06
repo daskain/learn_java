@@ -14,3 +14,7 @@ merge with conflict
 =======
 git merge conflict in another branches
 >>>>>>> third_branch
+
+
+git merge conflict in another branches
+
